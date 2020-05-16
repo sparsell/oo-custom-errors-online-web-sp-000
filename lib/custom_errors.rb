@@ -1,3 +1,5 @@
+require 'pry'
+
 class Person
   attr_accessor :partner, :name
 
